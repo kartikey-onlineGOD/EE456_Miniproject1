@@ -60,7 +60,7 @@ The project demonstrates:
 
 ## Contributors
 
-- [Your Name]
+- Kartikey Pandey
 
 ## License
 
